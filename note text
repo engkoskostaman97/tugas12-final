@@ -1,0 +1,15 @@
+# tugas12-final
+
+-install node js
+-npm init-y
+-Buat file baru dengan nama index.js
+-npm install express 
+-npm install hbs
+-seet view engine 
+-membuat routing 
+-membuat database 
+-import database kedalam project
+-npm install express-sesion (untuk menampung data/menyimpan data kedalam browser)
+-npm install express-flash (untuk notifikasi/alert pada project)
+-npm install bcrypt (untuk angkrip password )
+-npm install multer (untuk mengupload file gambar )
